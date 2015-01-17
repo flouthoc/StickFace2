@@ -2,7 +2,7 @@
 A Minimalist Sticky Widget THat Follows Your Around Your Work Screen. Built For Gnome &amp; Unity Environment.Built in Python,well tested in Ubuntu
 
 # Demo Working Video
-https://vid.me/mgqy
+https://vid.me/QhyM
 
 # Requirements
 1. Linux (Tested Under Ubuntu 14.04)
