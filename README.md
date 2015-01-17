@@ -1,6 +1,8 @@
 # StickFace2 (Stable)
 A Minimalist Sticky Widget THat Follows Your Around Your Work Screen. Built For Gnome &amp; Unity Environment.Built in Python,well tested in Ubuntu
 
+# Demo Working Video
+https://vid.me/mgqy
 
 # Requirements
 1. Linux (Tested Under Ubuntu 14.04)
@@ -8,7 +10,7 @@ A Minimalist Sticky Widget THat Follows Your Around Your Work Screen. Built For 
 3. Gtk-Bundle
 4. GTK+3
 5. gobject-introspection
-6. 
+ 
 
 # Install dependencies
 ## Ubuntu
