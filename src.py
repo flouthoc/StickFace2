@@ -1,10 +1,10 @@
 
-__author__ = "argunner (http://github.com/argunner)"
+__author__ = "flouthoc (http://github.com/flouthoc)"
 __copyright__ = "Copyright 2015"
 __credits__ = ["Add Your Name and GitHub Link Here"]
 __license__ = "MIT"
 __version__ = "1.0.1"
-__maintainer__ = "argunner"
+__maintainer__ = "flouthoc"
 __email__ = "gunnerar7@gmail.com"
 __contributers__ = "Add Your Name Here"
 #!/usr/bin/env python
@@ -61,7 +61,7 @@ class StickFace:
 	def show_info(self, widget):
 
 		dialog = Gtk.MessageDialog(self.window, 0, Gtk.MessageType.INFO,Gtk.ButtonsType.OK, "StickFace 2.0")
-		dialog.format_secondary_text("A Minimalist Sticky Widget That Follows You Around Your Work Screen\n\n\n By argunner(gunnerar7@gmail.com) \n https://github.com/argunner \n\n\nContributers \n Add Your Name Here")
+		dialog.format_secondary_text("A Minimalist Sticky Widget That Follows You Around Your Work Screen\n\n\n By flouthoc(gunnerar7@gmail.com) \n https://github.com/flouthoc \n\n\nContributers \n Add Your Name Here")
         	dialog.run()
         	dialog.destroy()
 	
